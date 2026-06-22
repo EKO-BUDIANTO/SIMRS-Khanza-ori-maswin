@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Update">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/KhanzaUpdater/dist/Update.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

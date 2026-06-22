@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KhanzaHMSAutoVerify2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/KhanzaHMSAutoVerify2/dist/KhanzaHMSAutoVerify2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

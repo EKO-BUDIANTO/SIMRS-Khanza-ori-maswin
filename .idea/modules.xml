@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KhanzaAntrianApotek/KhanzaAntrianApotek.iml" filepath="$PROJECT_DIR$/KhanzaAntrianApotek/KhanzaAntrianApotek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaAntrianLoket/KhanzaAntrianLoket.iml" filepath="$PROJECT_DIR$/KhanzaAntrianLoket/KhanzaAntrianLoket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaAntrianLoket2/KhanzaAntrianLoket2.iml" filepath="$PROJECT_DIR$/KhanzaAntrianLoket2/KhanzaAntrianLoket2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaAntrianPoli/KhanzaAntrianPoli.iml" filepath="$PROJECT_DIR$/KhanzaAntrianPoli/KhanzaAntrianPoli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaCetakAntrianLoket/KhanzaCetakAntrianLoket.iml" filepath="$PROJECT_DIR$/KhanzaCetakAntrianLoket/KhanzaCetakAntrianLoket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSAnjungan/KhanzaHMSAnjungan.iml" filepath="$PROJECT_DIR$/KhanzaHMSAnjungan/KhanzaHMSAnjungan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSAnjunganFingerPrint/KhanzaHMSAnjunganFingerPrint.iml" filepath="$PROJECT_DIR$/KhanzaHMSAnjunganFingerPrint/KhanzaHMSAnjunganFingerPrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSAutoVerify/KhanzaHMSAutoVerify.iml" filepath="$PROJECT_DIR$/KhanzaHMSAutoVerify/KhanzaHMSAutoVerify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSAutoVerify2/KhanzaHMSAutoVerify2.iml" filepath="$PROJECT_DIR$/KhanzaHMSAutoVerify2/KhanzaHMSAutoVerify2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSResume/KhanzaHMSResume.iml" filepath="$PROJECT_DIR$/KhanzaHMSResume/KhanzaHMSResume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServiceAplicare/KhanzaHMSServiceAplicare.iml" filepath="$PROJECT_DIR$/KhanzaHMSServiceAplicare/KhanzaHMSServiceAplicare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServiceMandiri/KhanzaHMSServiceMandiri.iml" filepath="$PROJECT_DIR$/KhanzaHMSServiceMandiri/KhanzaHMSServiceMandiri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServiceMobileJKN/KhanzaHMSServiceMobileJKN.iml" filepath="$PROJECT_DIR$/KhanzaHMSServiceMobileJKN/KhanzaHMSServiceMobileJKN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServiceMobileJKNERM/KhanzaHMSServiceMobileJKNERM.iml" filepath="$PROJECT_DIR$/KhanzaHMSServiceMobileJKNERM/KhanzaHMSServiceMobileJKNERM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServiceMobileJKNFKTP/KhanzaHMSServiceMobileJKNFKTP.iml" filepath="$PROJECT_DIR$/KhanzaHMSServiceMobileJKNFKTP/KhanzaHMSServiceMobileJKNFKTP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServicePCare/KhanzaHMSServicePCare.iml" filepath="$PROJECT_DIR$/KhanzaHMSServicePCare/KhanzaHMSServicePCare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServiceSIRSYankes/KhanzaHMSServiceSIRSYankes.iml" filepath="$PROJECT_DIR$/KhanzaHMSServiceSIRSYankes/KhanzaHMSServiceSIRSYankes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServiceSPDGT/KhanzaHMSServiceSPDGT.iml" filepath="$PROJECT_DIR$/KhanzaHMSServiceSPDGT/KhanzaHMSServiceSPDGT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaHMSServiceSatuSehat/KhanzaHMSServiceSatuSehat.iml" filepath="$PROJECT_DIR$/KhanzaHMSServiceSatuSehat/KhanzaHMSServiceSatuSehat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaPengenkripsiTeks/KhanzaPengenkripsiTeks.iml" filepath="$PROJECT_DIR$/KhanzaPengenkripsiTeks/KhanzaPengenkripsiTeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaSecurity16bit/KhanzaSecurity16bit.iml" filepath="$PROJECT_DIR$/KhanzaSecurity16bit/KhanzaSecurity16bit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KhanzaUpdater/KhanzaUpdater.iml" filepath="$PROJECT_DIR$/KhanzaUpdater/KhanzaUpdater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIMRS-Khanza-ori-maswin.iml" filepath="$PROJECT_DIR$/SIMRS-Khanza-ori-maswin.iml" />
+    </modules>
+  </component>
+</project>

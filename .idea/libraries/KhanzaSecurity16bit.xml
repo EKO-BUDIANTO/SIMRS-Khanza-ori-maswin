@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KhanzaSecurity16bit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/KhanzaSecurity16bit/dist/KhanzaSecurity16bit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
